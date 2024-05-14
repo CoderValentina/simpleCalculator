@@ -1,6 +1,6 @@
 # simpleCalculator
 
-simpleCalculator offers a simple and quick estimation making it easy for users of all levels to perform calculations easily.
+simpleCalculator offers a simple command line tool making it easy for users of all levels to perform basic math calculations.
 
 ## Features
 
